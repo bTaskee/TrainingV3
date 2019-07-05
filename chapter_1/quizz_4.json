@@ -1,0 +1,84 @@
+{
+  "id": "4",
+  "type": "QUIZZ",
+  "title": "Bài kiểm tra dọn dẹp bếp",
+  "scoreRate": 80,
+  "nextLesson": "https://raw.githubusercontent.com/dantn93/TrainingV2/master/chapter_1/lesson_10.json",
+  "previousLesson": "https://raw.githubusercontent.com/dantn93/TrainingV2/master/chapter_1/lesson_9.json",
+  "questions": [
+    {
+      "id": "0",
+      "type": "ONE_CHOICE",
+      "question": "Có thể dùng nước xịt kính để lau bếp gas, tủ bếp",
+      "rightAnswer": [0],
+      "choices": [
+        "Sai",
+        "Đúng"
+      ]
+    },
+    {
+      "id": "1",
+      "type": "ONE_CHOICE",
+      "question": "Cách xử lý thức ăn thừa trên bàn ăn",
+      "rightAnswer": [1],
+      "choices": [
+        "Đổ bỏ đi vì Khách không ăn hết",
+        "Bọc lại bỏ tủ lạnh hoặc che đậy tránh côn trùng",
+        "Giữ nguyên hiện trạng"
+      ]
+    },
+    {
+      "id": "2",
+      "type": "MULTI_CHOICES",
+      "question": "Vì sao cần vệ sinh khu vực bếp nấu (Có thể chọn nhiều đáp án)",
+      "rightAnswer": [0,1],
+      "choices": [
+        "Dễ dính dầu mỡ, vết bẩn trong khi nấu ăn",
+        "Nhiều vi khuẩn lây bệnh",
+        "Không cần vệ sinh, vì sau khi lau sạch Khách lại nấu tiếp bếp lại bẩn trở lại"
+      ]
+    },
+    {
+      "id": "3",
+      "type": "ONE_CHOICE",
+      "question": "Vệ sinh luôn bồn rửa chén và lau khô nước khu vực xung quanh",
+      "rightAnswer": [0],
+      "choices": [
+        "Đúng",
+        "Sai"
+      ]
+    },
+    {
+      "id": "4",
+      "type": "ONE_CHOICE",
+      "question": "Tác dụng của việc ngâm chén bát trước khi rửa",
+      "rightAnswer": [1],
+      "choices": [
+        "Chén bát được sáng bóng hơn",
+        "Làm mềm các vết bẩn, thức ăn bám lại giúp thao tác được nhanh hơn"
+      ]
+    },
+    {
+      "id": "5",
+      "type": "ONE_CHOICE",
+      "question": "Khu vực nào sau đây sẽ được vệ sinh trước nhất",
+      "rightAnswer": [0],
+      "choices": [
+        "Không. Nước lau kính là hóa chất sẽ ăn mòn các bề mặt gỗ",
+        "Được. Nước lau kính không gây hư hại nếu sử dụng đúng cách"
+      ]
+    },
+    {
+      "id": "6",
+      "type": "ONE_CHOICE",
+      "question": "Khu vực nào sau đây sẽ được vệ sinh trước nhất",
+      "rightAnswer": [2],
+      "choices": [
+        "Bồn rửa chén",
+        "Bếp nấu",
+        "Tủ và tường bếp",
+        "Sàn nhà"
+      ]
+    }
+  ]
+}

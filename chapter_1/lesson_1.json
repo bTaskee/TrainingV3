@@ -1,0 +1,29 @@
+{
+  "id": "1",
+  "type": "LESSON",
+  "title": "Mô tả cách nhận việc",
+  "nextLesson": "https://raw.githubusercontent.com/dantn93/TrainingV2/master/chapter_1/lesson_2.json",
+  "previousLesson": "https://raw.githubusercontent.com/dantn93/TrainingV2/master/chapter_1/lesson_0.json",
+  "quizzLink": null,
+  "content": [
+                {"h1": "CÁCH HOẠT ĐỘNG CỦA MÔ HÌNH BTASKEE"},
+                {"list": [
+                  {"line": [
+                    {"text": "Khi có nhu cầu, Khách hàng sẽ đăng thông tin công việc lên hệ thống. Bao gồm: địa điểm, ngày, giờ bắt đầu làm việc, những yêu cầu khác..."}
+                  ]},
+                  {"line": [
+                    {"text": "Hệ thống sẽ gửi những thông tin công việc này đến các CTV thông qua ứng dụng bTaskee trên điện thoại. CTV xem thông tin và chọn công việc phù hợp nhất."}
+                  ]},
+                  {"line": [
+                    {"text": "Sau khi nhận việc thành công, CTV xác nhận lại với Khách hàng bằng cách"},
+                    {"strong": "Chat trực tiếp trên ứng dụng."}
+                  ]},
+                  {"line": [
+                    {"text": "Đúng thời gian, địa điểm, CTV đến nhà Khách hàng để thực hiện công việc."}
+                  ]},
+                  {"line": [
+                    {"text": "Sau khi hoàn thành công việc, CTV nhận tiền trực tiếp từ Khách hàng."}
+                  ]}
+                ]}
+              ]
+}
