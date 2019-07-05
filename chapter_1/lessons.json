@@ -1,5 +1,5 @@
 [
-  { "block": "Bài 1: BTASKEE LÀ GÌ" },
+  { "block": "Bài 1: BTASKEE LÀ GÌ?" },
   {
     "id": "0",
     "type": "LESSON",
@@ -46,7 +46,7 @@
   {
     "id": "0",
     "type": "QUIZZ",
-    "title": "Bài kiểm tra: thái độ, tác phong, ứng xử",
+    "title": "Bài kiểm tra tác phong, thái độ",
     "time": 10,
     "numberOfQuestions": 5,
     "link": "https://raw.githubusercontent.com/bTaskee/TrainingV3/master/chapter_1/quizz_0.json"
@@ -77,7 +77,7 @@
   {
     "id": "2",
     "type": "QUIZZ",
-    "title": "Bài kiểm tra: dụng cụ dọn dẹp",
+    "title": "Bài kiểm tra dụng cụ dọn dẹp",
     "time": 10,
     "numberOfQuestions": 8,
     "link": "https://raw.githubusercontent.com/bTaskee/TrainingV3/master/chapter_1/quizz_2.json"
@@ -92,7 +92,7 @@
   {
     "id": "3",
     "type": "QUIZZ",
-    "title": "Bài kiểm tra: cách sử dụng chất tẩy rửa",
+    "title": "Bài kiểm tra cách sử dụng hóa chất",
     "time": 10,
     "numberOfQuestions": 3,
     "link": "https://raw.githubusercontent.com/bTaskee/TrainingV3/master/chapter_1/quizz_3.json"
@@ -107,7 +107,7 @@
   {
     "id": "4",
     "type": "QUIZZ",
-    "title": "Bài kiểm tra: dọn nhà bếp",
+    "title": "Bài kiểm tra dọn dẹp bếp",
     "time": 10,
     "numberOfQuestions": 2,
     "link": "https://raw.githubusercontent.com/bTaskee/TrainingV3/master/chapter_1/quizz_4.json"
@@ -122,7 +122,7 @@
   {
     "id": "5",
     "type": "QUIZZ",
-    "title": "Bài kiểm tra: dọn phòng ngủ",
+    "title": "Bài kiểm tra dọn phòng ngủ",
     "time": 10,
     "numberOfQuestions": 5,
     "link": "https://raw.githubusercontent.com/bTaskee/TrainingV3/master/chapter_1/quizz_5.json"
@@ -137,7 +137,7 @@
   {
     "id": "6",
     "type": "QUIZZ",
-    "title": "Bài kiểm tra: dọn phòng khách",
+    "title": "Bài kiểm tra dọn phòng khách",
     "time": 10,
     "numberOfQuestions": 2,
     "link": "https://raw.githubusercontent.com/bTaskee/TrainingV3/master/chapter_1/quizz_6.json"
@@ -152,7 +152,7 @@
   {
     "id": "7",
     "type": "QUIZZ",
-    "title": "Bài kiểm tra: dọn nhà vệ sinh",
+    "title": "Bài kiểm tra dọn nhà vệ sinh",
     "time": 10,
     "numberOfQuestions": 2,
     "link": "https://raw.githubusercontent.com/bTaskee/TrainingV3/master/chapter_1/quizz_7.json"
