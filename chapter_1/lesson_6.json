@@ -2,11 +2,11 @@
   "id": "6",
   "type": "LESSON",
   "title": "Quy tắc vệ sinh nhà cửa chung",
-  "nextLesson": "https://raw.githubusercontent.com/dantn93/TrainingV2/master/chapter_1/lesson_7.json",
-  "previousLesson": "https://raw.githubusercontent.com/dantn93/TrainingV2/master/chapter_1/lesson_5.json",
-  "quizzLink": "https://raw.githubusercontent.com/dantn93/TrainingV2/master/chapter_1/quizz_1.json",
+  "nextLesson": "https://raw.githubusercontent.com/bTaskee/TrainingV3/master/chapter_1/lesson_7.json",
+  "previousLesson": "https://raw.githubusercontent.com/bTaskee/TrainingV3/master/chapter_1/lesson_5.json",
+  "quizzLink": "https://raw.githubusercontent.com/bTaskee/TrainingV3/master/chapter_1/quizz_1.json",
   "quizzId": "1",
-  "previousQuizz": "https://raw.githubusercontent.com/dantn93/TrainingV2/master/chapter_1/quizz_0.json",
+  "previousQuizz": "https://raw.githubusercontent.com/bTaskee/TrainingV3/master/chapter_1/quizz_0.json",
   "content" : [
     {"banner": "https://btaskee-stag.s3-ap-southeast-1.amazonaws.com/campaigns/wQbPQPsFJXkNgemYF"},
     {"list": [
