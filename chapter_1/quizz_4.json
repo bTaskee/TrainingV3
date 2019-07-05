@@ -10,7 +10,7 @@
       "id": "0",
       "type": "ONE_CHOICE",
       "question": "Có thể dùng nước xịt kính để lau bếp gas, tủ bếp",
-      "rightAnswer": [0],
+      "rightAnswer": [1],
       "choices": [
         "Đúng",
         "Sai"
