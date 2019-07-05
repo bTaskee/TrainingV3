@@ -1,7 +1,7 @@
 {
   "id": "6",
   "type": "QUIZZ",
-  "title": "Bài kiểm tra: dọn phòng khách",
+  "title": "Bài kiểm tra dọn phòng khách",
   "scoreRate": 80,
   "nextLesson": "https://raw.githubusercontent.com/bTaskee/TrainingV3/master/chapter_1/lesson_12.json",
   "previousLesson": "https://raw.githubusercontent.com/bTaskee/TrainingV3/master/chapter_1/lesson_11.json",

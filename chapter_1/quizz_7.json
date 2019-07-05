@@ -1,7 +1,7 @@
 {
   "id": "7",
   "type": "QUIZZ",
-  "title": "Bài kiểm tra: dọn nhà vệ sinh",
+  "title": "Bài kiểm tra dọn nhà vệ sinh",
   "scoreRate": 80,
   "nextLesson": null,
   "previousLesson": "https://raw.githubusercontent.com/bTaskee/TrainingV3/master/chapter_1/lesson_12.json",
