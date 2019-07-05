@@ -46,7 +46,7 @@
   {
     "id": "0",
     "type": "QUIZZ",
-    "title": "Bài kiểm tra tác phong, thái độ",
+    "title": "Bài kiểm tra thái độ, tác phong, ứng xử",
     "time": 10,
     "numberOfQuestions": 5,
     "link": "https://raw.githubusercontent.com/bTaskee/TrainingV3/master/chapter_1/quizz_0.json"
