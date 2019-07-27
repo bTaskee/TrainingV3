@@ -44,13 +44,14 @@
     {
       "id": "3",
       "type": "ONE_CHOICE",
-      "question": "Trong những công việc dưới đây, công việc nào mang tính chất là dọn dẹp gia đình?",
-      "rightAnswer": [0],
+      "question": "Đang trong quá trình dọn dẹp, thấy đồ của khách hàng đang nằm trong góc nhà, CTV nên làm gì?",
+      "rightAnswer": [3],
       "choices": [
-        "Dọn dẹp lau chùi, vệ sinh nhà cửa, giặt quần áo, ủi đồ, nấu ăn",
-        "Vệ sinh gạch vôi, vữa nhà mới xây, cắt cỏ.",
-        "Trông em bé",
-        "Đáp án 1 và 2"
+        "Nếu thấy đồ đó sử dụng được thì bỏ túi mang về vì có lẽ khách không sử dụng nên bỏ đó",
+        "Cầm lên và đưa trả khách nói mình thấy trong góc nhà",
+        "Để im đó vì sợ làm ơn mất oán",
+        "Để nguyên vị trí, tìm khách hàng và báo có đồ vật đang nằm trong góc nhà",
+        "Để nguyên vị trí, cuối giờ xin khách hàng món đó, nếu cho thì lấy, không cho thì trả lại"
       ]
       
     },
@@ -88,12 +89,15 @@
     },
     {
       "id": "7",
-      "type": "ONE_CHOICE",
-      "question": "Dùng Vim để tẩy rửa các vật dụng Inox trong phòng tắm (vòi hoa sen, vòi nước)",
-      "rightAnswer": [1],
+      "type": "MULTI_CHOICES",
+      "question": "Nếu gặp khách nước ngoài, mà cần giao tiếp với khách, bạn sẽ làm gì? (có thể chọn nhiều đáp án)",
+      "rightAnswer": [0,3],
       "choices": [
-        "Đúng",
-        "Sai"
+        "Sử dụng google dịch hoặc các trang để dịch",
+        "Dùng tay để diễn tả, nếu khách hàng không hiểu thì cố gắng kiếm việc làm cho xong rồi về",
+        "Hạn chế nhận những công việc của khách nước ngoài",
+        "Tự trang bị thêm tiếng anh để giao tiếp với khách hàng",
+        "Gọi tổng đài xin hủy việc vì không biết giao tiếp"
       ]
     },
     {
@@ -149,6 +153,31 @@
         "Sắp xếp các dụng cụ trên bếp gọn gàng, bỏ chén dĩa và ly tách dơ vào bồn rửa ngâm trong 5 phút bằng nước thường hoặc nước ấm để giảm độ bám của chất bẩn, đầu mỡ…",
         "Lau chùi các dụng cụ trên bếp trước (lò vi sóng, lò nướng, bếp…) sau đó đến mặt bếp",
         "Lau chùi các vật dụng trong bếp (tủ lạnh, bàn ghế, tủ kệ…)"
+      ]
+    },
+    {
+      "id": "13",
+      "type": "MULTI_CHOICES",
+      "question": "Nếu đã hoàn thành công việc cho khách, cuối giờ khách hàng yêu cầu làm thêm, bạn sẽ xử lý như thế nào? (Có thể chọn nhiều đáp án)",
+      "rightAnswer": [3,4],
+      "choices": [
+        "Cố gắng làm hết sau đó yêu cầu khách hàng thêm tiền vì làm lố giờ",
+        "Cố gắng làm hết để khách hàng vui lòng và đặt lại dịch vụ",
+        "Từ chối thẳng với khách hàng vì bây giờ đã hết giờ",
+        "Hỏi về công việc mà khách hàng cần làm thêm, gọi ngay về công ty để nhờ hỗ trợ",
+        "Từ chối khéo nếu không thể làm thêm cho khách"
+      ]
+    },
+    {
+      "id": "14",
+      "type": "ONE_CHOICE",
+      "question": "Hoàn thành xong công việc mà vẫn còn dư 30 phút, bạn sẽ làm gì?",
+      "rightAnswer": [2],
+      "choices": [
+        "Vì đã hoàn thành xong nên tranh thủ nhận tiền và ra về",
+        "Tự tìm thêm việc để làm đủ giờ cho khách",
+        "Báo với khách đã xong việc và nhờ khách hướng dẫn tiếp",
+        "Cứ làm từ từ vì dư nhiều thời gian"
       ]
     }
   ]
